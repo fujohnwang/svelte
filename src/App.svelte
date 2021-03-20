@@ -10,11 +10,11 @@
 </script>
 
 <main>
-  <h1>Svelte + Node.js API</h1>
+  <h1>福强@Vercel as PoC</h1>
   <h2>
-    Deployed with
-    <a href="https://vercel.com/docs" target="_blank" rel="noreferrer noopener">
-      Vercel
+    更多信息参考
+    <a href="https://keevol.com" target="_blank" rel="noreferrer noopener">
+      福强科技
     </a>
     !
   </h2>
